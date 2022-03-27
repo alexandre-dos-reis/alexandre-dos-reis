@@ -1,6 +1,6 @@
 ## Alexandre Dos Reis
 
-Sound engineer 🥁 🎺 in the past, now into web developpement, working in Normandy France. 🍎 🇫🇷
+Sound engineer 🥁 🎺 in the past, now into web developpement ✨, working in Normandy France. 🍎 🇫🇷
 
 ### Language and tools
 <img align="left" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
