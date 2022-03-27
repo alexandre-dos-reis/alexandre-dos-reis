@@ -26,3 +26,7 @@ Sound engineer 🥁 🎺 in the past, now I'm in web developpement working in No
 ### ⭐ Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-dos-reis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+https://emojipedia.org/flag-france/
+-->
