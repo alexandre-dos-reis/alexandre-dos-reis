@@ -2,6 +2,13 @@
 
 Sound engineer 🥁 🎺 in the past, now into web developpement ✨, working in Normandy France. 🍎 🇫🇷
 
+You can visit my [own website](https://alexandre-dosreis.me/).
+
+Here's some projects, I'm currently working on :
+- [Linux Debian Ubuntu commands](https://linux-debian-commandes.alexandre-dosreis.me/)
+- [L'Atelier d'Amélie](https://atelier-amelie.fr/)
+- [Yams Game](https://yams.reges.fr/)
+
 ### Language and tools
 <img align="left" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
