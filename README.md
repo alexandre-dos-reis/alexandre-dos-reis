@@ -1,6 +1,6 @@
 ## Alexandre Dos Reis
 
-sound engineer in the past, now I'm in web developpement working in Normandie France.
+Sound engineer 🥁🎺 in the past, now I'm in web developpement working in Normandie 🍎 France 🇫🇷.
 
 ### Language and tools
 <img align="left" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -23,6 +23,6 @@ sound engineer in the past, now I'm in web developpement working in Normandie Fr
 <br/>
 <br/>
 
-### Github Stats
+### ⭐ Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-dos-reis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
