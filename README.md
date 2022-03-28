@@ -4,7 +4,7 @@ Sound engineer 🥁 🎺 in the past, now into web developpement ✨, working in
 
 You can visit my [own website](https://alexandre-dosreis.me/).
 
-Here's some projects, I'm currently working on :
+Here's some projects I'm currently working on :
 - [Linux Debian Ubuntu commands](https://linux-debian-commandes.alexandre-dosreis.me/)
 - [L'Atelier d'Amélie](https://atelier-amelie.fr/)
 - [Yams Game](https://yams.reges.fr/)
