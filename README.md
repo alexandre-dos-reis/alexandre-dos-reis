@@ -1,6 +1,6 @@
 ## Alexandre Dos Reis
 
-Sound engineer 🥁 🎺 in the past, now into web developpement ✨, working in Normandy France. 🍎 🇫🇷
+Sound engineer 🥁 🎺 in the past, now into web developpement ✨, working in Normandy France. 🍎
 
 You can visit my [own website](https://alexandre-dosreis.me/).
 
