@@ -8,6 +8,7 @@ Here's some projects I'm currently working on :
 - [Linux Debian Ubuntu commands](https://linux-debian-commandes.alexandre-dosreis.me/)
 - [L'Atelier d'Amélie](https://atelier-amelie.fr/)
 - [Yams Game](https://yams.reges.fr/)
+- [NPM Lib : ipv4-calc](https://www.npmjs.com/package/ipv4-calc)
 
 ### Language and tools
 <img align="left" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
