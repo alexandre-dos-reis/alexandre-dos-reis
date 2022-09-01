@@ -5,10 +5,9 @@ Sound engineer in the past 🥁🎺, now into web developpement ✨, working in 
 You can visit my [own website](https://alexandre-dosreis.me/).
 
 Here's some projects I'm currently working on :
-- [Linux Debian Ubuntu commands](https://linux-debian-commandes.alexandre-dosreis.me/)
-- [L'Atelier d'Amélie](https://atelier-amelie.fr/)
-- [Yams Game](https://yams.reges.fr/)
-- [NPM Lib : ipv4-calc](https://www.npmjs.com/package/ipv4-calc)
+- [Linux Debian Ubuntu commands](https://linux-debian-commandes.alexandre-dosreis.me/) - [Source](https://github.com/alexandre-dos-reis/linux-debian-commands)
+- [L'Atelier d'Amélie](https://atelier-amelie.fr/) - [Source](https://github.com/alexandre-dos-reis/atelier-amelie-nx-trpc)
+- [NPM Lib : ipv4-calc](https://www.npmjs.com/package/ipv4-calc) - [Source](https://github.com/alexandre-dos-reis/ipv4-calc)
 
 ### Language and tools
 <img align="left" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
