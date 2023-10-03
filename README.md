@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working for [🏃 finishers.com](https://www.finishers.com).
+- 🔭 I currently work for [🏃 finishers.com](https://www.finishers.com).
 
 - 👨‍💻 All of my projects are available at [https://alexandre-dosreis.me](https://alexandre-dosreis.me).
 
-- 📝 I regularly write articles on [https://alexandre-dosreis.me/blog](https://alexandre-dosreis.me/blog).
+- 📝 I (ir)regularly write articles on [https://alexandre-dosreis.me/blog](https://alexandre-dosreis.me/blog).
 
 - 📫 How to reach me **ajm.dosreis.daponte@gmail.com**.
 
